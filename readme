@@ -1,0 +1,2 @@
+1. docker build -t go/test:1.0 .
+    (Dockerfile must be there in current dir)
